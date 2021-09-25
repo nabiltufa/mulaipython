@@ -14,7 +14,7 @@ class Tempatmakan():
         print("Harga: ", self.harga)
         print("Rating: ", self.rating)
 
-#SubClass Tempat Makan Warteg dan Restauran
+#SubClass Tempat Makan Warteg dan Restoran
 
         class warteg(Tempatmakan):
             pass
